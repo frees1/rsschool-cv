@@ -8,3 +8,13 @@
 ## Skills
 * HTML
 * CSS
+## Code Example
+```
+var myarray=["B", "C", "A"]
+myarray.sort()
+```
+## Experience
+## Education
+* Educational Establishment "Belarusian State University of Informatics and Radioelectronics"
+  branch "Minsk Radio Engineering College"
+## English
